@@ -67,7 +67,7 @@ This project is licensed under the MIT License
 If you use this code in your research, please cite:
 ```
 Adetokunbo, P., Ayuk, M.A., Eluyemi, A.A., Sanuade O.A., Adegbola, K., Edigbue, P., & Mewafy F. (2025). A machine learning framework for agricultural drought early warning: Development and validation using multi-climate zones in Nigeria. Environmental Modelling & Software
-GitHub repository: https://github.com/yourusername/your-project-name
+GitHub repository: https://github.com/peterkunbo/Drought_Prediction
 ```
 
 ## Contact
