@@ -5,7 +5,7 @@ This project provides a comprehensive geospatial analysis toolkit for raster dat
 
 ## Features
 - **Data Visualization**: Interactive and static visualizations of geospatial raster data
-- **Data Analysis**: Comprehensive analysis of spatial patterns and temporal trends
+- **ML set up**: Training and testing models
 - **Early Warning Prediction**: Predictive modeling for early warning systems
 - **Statistical Analysis**: Statistical summaries and hypothesis testing
 
@@ -40,7 +40,6 @@ pip install -r requirements.txt
 ### Visualization
 - Raster data plotting with customizable colormaps
 - Scale bars and north arrows for publication-ready maps
-- Multi-band visualization and comparison plots
 
 ### Analysis
 - Feature engineering
@@ -49,13 +48,9 @@ pip install -r requirements.txt
 
 ### Prediction
 - Early warning system development
-- Risk assessment modeling
-- Threshold-based alert systems
 
 ### Statistics
 - Descriptive statistics for raster data
-- Spatial autocorrelation analysis
-- Hypothesis testing for spatial data
 
 ## Dependencies
 This project relies on several key geospatial and scientific Python libraries:
@@ -71,7 +66,7 @@ This project is licensed under the MIT License
 ## Citation
 If you use this code in your research, please cite:
 ```
-[Your Name] (2025). Geospatial Analysis & Early Warning Prediction System. 
+Adetokunbo, P., Ayuk, M.A., Eluyemi, A.A., Sanuade O.A., Adegbola, K., Edigbue, P., & Mewafy F. (2025). A machine learning framework for agricultural drought early warning: Development and validation using multi-climate zones in Nigeria. Environmental Modelling & Software
 GitHub repository: https://github.com/yourusername/your-project-name
 ```
 
